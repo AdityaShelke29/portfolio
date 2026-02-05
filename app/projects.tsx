@@ -25,14 +25,6 @@ const projects = [
         "PyTorch, achieving high accuracy on benchmark datasets.",
         src: "/images/experience_thumbnails/proj-img-3.png"
     }, 
-    {
-        key: 4, 
-        name: "Neighborhood Graphs for Research", 
-        description: "Developed an application to map significant relationships " + 
-        "between published papers. Additionally created a paper ranking and " + 
-        "relevance search algorithm.",
-        src: "/images/experience_thumbnails/proj-img-4.png"
-    }, 
 ]
 
 // Load IBM Plex Mono font with specified weight and subsets.
